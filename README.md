@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Winnie Wanjiku</h1>
 <h3 align="center">A passionate data analyst and technical writer from Kenya.</h3>
 
-- 🌱 I’m currently learning **SQL, data analysis, tableau, data visualization, data cleaning, machine learning, python**
+- 🌱 I’m currently learning **Front end web development: HTML, CSS, JavaScript** 
+
+- 🌱 Other areas of interest **SQL, data analysis, tableau, data visualization, data cleaning, python, Microsoft Azure**
 
 - 📝 I regularly write articles on [https://medium.com/@wanjiku_writes/](https://medium.com/@wanjiku_writes/)
 
 - 📫 How to reach me **winnie@wanjikuwrites.co.ke**
 
-- ⚡ Fun fact **I enjoy long walks and filling codeword puzzles.**
+- ⚡ Fun fact **I enjoy long walks and filling in newspaper codeword puzzles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
