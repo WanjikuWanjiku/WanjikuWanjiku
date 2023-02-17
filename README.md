@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Winnie Wanjiku</h1>
-<h3 align="center">A passionate data analyst and technical writer from Kenya.</h3>
+<h3 align="center">A passionate web developer and writer from Kenya.</h3>
 
 - 🌱 I’m currently learning **Front end web development: HTML, CSS, JavaScript** 
 
