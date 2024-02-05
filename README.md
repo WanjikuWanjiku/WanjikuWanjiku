@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Winnie Wanjiku</h1>
-<h3 align="center">A passionate web developer and writer from Kenya.</h3>
+<h1 align="center">Hi 👋, I'm Winnie G.</h1>
+<h3 align="center">My interests are in Technical Writing and Cybersecurity.</h3>
 
-- 🌱 I’m currently learning **Front end web development: HTML, CSS, JavaScript** 
+- 🌱 I’m currently studying for **CompTIA Network +, CompTIA Security +, AZ900, Splunk Core** 
 
-- 🌱 Other areas of interest **SQL, data analysis, tableau, data visualization, data cleaning, python, Microsoft Azure**
+- 🌱 Other areas of interest **Python, Tableau, Linux, data cleaning, data **
 
-- 📝 I regularly write articles on [https://medium.com/@wanjiku_writes/](https://medium.com/@wanjiku_writes/)
+- 📝 I regularly write articles on [https://cybercraftedwords.com//)
 
-- 📫 How to reach me **winnie@wanjikuwrites.co.ke**
+- 📫 How to reach me **cybercraftedwords@gmail.com**
 
-- ⚡ Fun fact **I enjoy long walks and filling in newspaper codeword puzzles.**
+- ⚡ Fun fact **I love watching game shows.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
